@@ -1,0 +1,112 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Red Coat",
+            "price": 135.53,
+            "photo": "//satyr.io/300x300"
+        },
+        {
+            "id": 2,
+            "name": "Blue Jacket",
+            "price": 150,
+            "photo": "//satyr.io/300x300"
+        },
+        {
+            "id": 3,
+            "name": "T-shirt A",
+            "price": 42.12,
+            "photo": "//satyr.io/300x300"
+        },
+        {
+            "id": 4,
+            "name": "T-shirt B",
+            "price": 64.99,
+            "photo": "//satyr.io/300x300"
+        },
+        {
+            "id": 5,
+            "name": "Shoes Nike",
+            "price": 52.52,
+            "photo": "//satyr.io/300x300"
+        },
+        {
+            "id": 6,
+            "name": "Cap",
+            "price": 13,
+            "photo": "//satyr.io/300x300"
+        },
+        {
+            "id": 7,
+            "name": "Blue Coat",
+            "price": 135.53,
+            "photo": "//satyr.io/300x300"
+        },
+        {
+            "id": 8,
+            "name": "Brown Jacket",
+            "price": 150,
+            "photo": "//satyr.io/300x300"
+        },
+        {
+            "id": 9,
+            "name": "T-shirt C",
+            "price": 42.12,
+            "photo": "//satyr.io/300x300"
+        },
+        {
+            "id": 10,
+            "name": "T-shirt D",
+            "price": 64.99,
+            "photo": "//satyr.io/300x300"
+        },
+        {
+            "id": 11,
+            "name": "Shoes Adidas",
+            "price": 52.52,
+            "photo": "//satyr.io/300x300"
+        },
+        {
+            "id": 12,
+            "name": "Red Hat",
+            "price": 13,
+            "photo": "//satyr.io/300x300"
+        },
+        {
+            "id": 13,
+            "name": "Red Dress",
+            "price": 135.53,
+            "photo": "//satyr.io/300x300"
+        },
+        {
+            "id": 14,
+            "name": "Orange Jacket",
+            "price": 150,
+            "photo": "//satyr.io/300x300"
+        },
+        {
+            "id": 15,
+            "name": "T-shirt X",
+            "price": 42.12,
+            "photo": "//satyr.io/300x300"
+        },
+        {
+            "id": 16,
+            "name": "T-shirt Y",
+            "price": 64.99,
+            "photo": "//satyr.io/300x300"
+        },
+        {
+            "id": 17,
+            "name": "Shoes",
+            "price": 52.52,
+            "photo": "//satyr.io/300x300"
+        },
+        {
+            "id": 18,
+            "name": "Mexican Hat",
+            "price": 999.99,
+            "photo": "//satyr.io/300x300"
+        }
+    ]
+}
