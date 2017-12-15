@@ -72,7 +72,7 @@ const mutations = {
         }
     },
     RESTORE(state, lsState) {
-        state.cart = lsState
+        state.cart = Array.isArray(lsState) ? lsState : []
     }
 }
 export default {

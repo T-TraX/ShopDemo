@@ -42,7 +42,8 @@
         },
         computed:{
             quantity(){
-                return this.$store.getters.cart.length
+                if(this.$store.getters.cart)
+                    return this.$store.getters.cart.length
             }
         }
     }

@@ -1,6 +1,6 @@
 <template>
     <section class="cart">
-        <div class="cart-list-container" v-if="cart.length">
+        <div class="cart-list-container" v-if="cart && cart.length">
             <ul class="cart-list">
                 <li class="cart-list-item" v-for="item in cart" v-if="item.quantity > 0">
                     <div class="d-flex">
